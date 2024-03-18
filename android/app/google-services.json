@@ -1,0 +1,267 @@
+{
+  "project_info": {
+    "project_number": "590796765954",
+    "firebase_url": "https://netdokproject-default-rtdb.firebaseio.com",
+    "project_id": "netdokproject",
+    "storage_bucket": "netdokproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590796765954:android:e9b4ae259978074b18e01b",
+        "android_client_info": {
+          "package_name": "com.example.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590796765954-m58okvfmj1emnm86nn6doi1vi996h90u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.authentication",
+            "certificate_hash": "0ea90865ffc43d4d43c9516e1314187928a7949b"
+          }
+        },
+        {
+          "client_id": "590796765954-pui6tb73aquol8qv876r309llb9ae4u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARa3F2kIya8N9eEoYCqDW6PdVG70-1WXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590796765954-pui6tb73aquol8qv876r309llb9ae4u6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "590796765954-6rtarm06csg1rj6levg10gddq4fp1hjm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "NetDoc.NetDoc"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590796765954:android:b0a668e57c6bd8e318e01b",
+        "android_client_info": {
+          "package_name": "com.graph.netdokcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590796765954-6dddbmo0fi5fku3mcusj6qajdlupvji5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.graph.netdokcare",
+            "certificate_hash": "0ea90865ffc43d4d43c9516e1314187928a7949b"
+          }
+        },
+        {
+          "client_id": "590796765954-kpp0vvgiu89280v8pk16eibrsecevqla.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.graph.netdokcare",
+            "certificate_hash": "2bc41703469c94bfad3c815d9c858c55ea8bb114"
+          }
+        },
+        {
+          "client_id": "590796765954-pa07qa1c1reukaone5qcfahdrlrruucv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.graph.netdokcare",
+            "certificate_hash": "18348ffeb0eac5d2b88e7971f56dbe49a96882c8"
+          }
+        },
+        {
+          "client_id": "590796765954-ue1nod7ls4lqf5d1r3tvcirh4d0fibi1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.graph.netdokcare",
+            "certificate_hash": "1e1b1e29e17c80f298ffc1f50a24d40311a54bce"
+          }
+        },
+        {
+          "client_id": "590796765954-pui6tb73aquol8qv876r309llb9ae4u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARa3F2kIya8N9eEoYCqDW6PdVG70-1WXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590796765954-pui6tb73aquol8qv876r309llb9ae4u6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "590796765954-6rtarm06csg1rj6levg10gddq4fp1hjm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "NetDoc.NetDoc"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590796765954:android:70cca16b226c0b6b18e01b",
+        "android_client_info": {
+          "package_name": "com.netdoc.military"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590796765954-pui6tb73aquol8qv876r309llb9ae4u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARa3F2kIya8N9eEoYCqDW6PdVG70-1WXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590796765954-pui6tb73aquol8qv876r309llb9ae4u6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "590796765954-6rtarm06csg1rj6levg10gddq4fp1hjm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "NetDoc.NetDoc"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590796765954:android:d5a1774d0e3008fd18e01b",
+        "android_client_info": {
+          "package_name": "com.netdoc.myhealthprime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590796765954-pui6tb73aquol8qv876r309llb9ae4u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARa3F2kIya8N9eEoYCqDW6PdVG70-1WXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590796765954-pui6tb73aquol8qv876r309llb9ae4u6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "590796765954-6rtarm06csg1rj6levg10gddq4fp1hjm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "NetDoc.NetDoc"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590796765954:android:7bd2a0308c9f6f1318e01b",
+        "android_client_info": {
+          "package_name": "com.superdoctorapp.netdoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590796765954-pui6tb73aquol8qv876r309llb9ae4u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARa3F2kIya8N9eEoYCqDW6PdVG70-1WXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590796765954-pui6tb73aquol8qv876r309llb9ae4u6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "590796765954-6rtarm06csg1rj6levg10gddq4fp1hjm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "NetDoc.NetDoc"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590796765954:android:9b42a86e6b09f06618e01b",
+        "android_client_info": {
+          "package_name": "com.superdoctorapp.netdocprime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590796765954-pui6tb73aquol8qv876r309llb9ae4u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARa3F2kIya8N9eEoYCqDW6PdVG70-1WXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590796765954-pui6tb73aquol8qv876r309llb9ae4u6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "590796765954-6rtarm06csg1rj6levg10gddq4fp1hjm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "NetDoc.NetDoc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
